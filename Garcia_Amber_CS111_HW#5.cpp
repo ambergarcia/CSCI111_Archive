@@ -15,10 +15,7 @@ void printPowers (int x) {
     cout << pow(x,pos);
     cout << "\t";
     count++;
-    //Whenever count was equal to x, create a new line.
-    //Though in this case I thought modulus was neater
-    // count == x
-    // Would have been just fine.
+    
     if(count % x == 0){
     cout << endl;
     }
