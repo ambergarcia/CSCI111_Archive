@@ -1,7 +1,6 @@
 # CSCI111_Archive
-Archive for projects [finished/unfinished]
 
-*NOTE: This repository serves as an archive for all assignments done for CSCI 111*
+*NOTE: This repository serves as an archive for all assignments completed for CSCI 111*
 
 HW#2
 * Area and Circumfrence of a circle
